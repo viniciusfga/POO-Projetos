@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Projeto01-BancoDigital/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Projeto02-TaskManager/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Projeto03-EscolaManager/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projeto04-FilmManager/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
