@@ -1,6 +1,6 @@
-package br.ifgoiano.poo.streamflix.calculos;
+package br.ifgoiano.escolamanager.poo.streamflix.calculos;
 
-import br.ifgoiano.poo.streamflix.modelos.Titulo;
+import br.ifgoiano.escolamanager.poo.streamflix.modelos.Titulo;
 
 public class CalculadoraDeTempo {
     private int tempoTotal;

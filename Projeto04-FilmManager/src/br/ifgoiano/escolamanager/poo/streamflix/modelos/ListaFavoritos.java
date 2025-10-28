@@ -1,4 +1,4 @@
-package br.ifgoiano.poo.streamflix.modelos;
+package br.ifgoiano.escolamanager.poo.streamflix.modelos;
 import java.util.ArrayList;
 import java.util.List;
 

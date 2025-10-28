@@ -1,11 +1,8 @@
-package br.ifgoiano.poo.streamflix.app;
+package br.ifgoiano.escolamanager.poo.streamflix.app;
 
-import br.ifgoiano.poo.streamflix.calculos.CalculadoraDeTempo;
-import br.ifgoiano.poo.streamflix.calculos.FiltroRecomendacao;
-import br.ifgoiano.poo.streamflix.modelos.Episodio;
-import br.ifgoiano.poo.streamflix.modelos.Filme;
-import br.ifgoiano.poo.streamflix.modelos.ListaFavoritos;
-import br.ifgoiano.poo.streamflix.modelos.Serie;
+import br.ifgoiano.escolamanager.poo.streamflix.modelos.Filme;
+import br.ifgoiano.escolamanager.poo.streamflix.modelos.ListaFavoritos;
+import br.ifgoiano.escolamanager.poo.streamflix.modelos.Serie;
 
 public class Main {
 

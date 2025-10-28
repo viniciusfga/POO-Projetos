@@ -1,4 +1,4 @@
-package br.ifgoiano.poo.streamflix.modelos;
+package br.ifgoiano.escolamanager.poo.streamflix.modelos;
 
 public class Serie extends Titulo {
     private int temporadas;

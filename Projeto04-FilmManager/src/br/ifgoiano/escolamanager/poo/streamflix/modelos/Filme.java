@@ -1,6 +1,6 @@
-package br.ifgoiano.poo.streamflix.modelos;
+package br.ifgoiano.escolamanager.poo.streamflix.modelos;
 
-import br.ifgoiano.poo.streamflix.calculos.Classificavel;
+import br.ifgoiano.escolamanager.poo.streamflix.calculos.Classificavel;
 
 public class Filme extends Titulo implements Classificavel {
 
